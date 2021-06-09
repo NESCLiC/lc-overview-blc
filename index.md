@@ -6,8 +6,6 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 
 Library Carpentry aims to teach people working in library- and information-related roles how to automate tasks; create, maintain, and analyze sustainable and reusable data; work effectively with IT and systems colleagues; and better understand the use of software in research. Training takes place mainly in face-to-face workshops. To learn more about our workshops, see [The Carpentries Handbook](https://docs.carpentries.org/).
 
-> ## Audience
->
 > Library Carpentry lessons are for people working in library- and information-related roles. See [Our Audience](https://librarycarpentry.org/audience/) and [Our Learner Profiles (Draft)](https://github.com/LibraryCarpentry/lc-overview/blob/gh-pages/files/learner-profiles.md) for more information.
 {: .prereq}
 
