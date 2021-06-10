@@ -26,6 +26,7 @@ Library Carpentry aims to teach people working in library- and information-relat
 > Lesson materials are all available online, under a CC BY license, for self-directed study or for adaptation and re-use (as "Carpentries-based" training).
 {: .prereq}
 
+<!---
 # Workshop Structure
 
 ## Parts vs Days
@@ -47,7 +48,7 @@ Custom | Design your own workshop to suit your local needs | Select from [https:
 
 ## Core Lessons
 For a standard Library Carpentry workshop, three of the four parts below must be taught in addition to having at least one certified Carpentries instructor teach the workshop. Alternatively, a Library Carpentry-based workshop can be considered, where part(s) of the core lessons are combined with the extended lessons to suit the needs of the community. 
-
+-->
 ### Part 1: Introduction to Working with Data
 
 The lesson begins with a question and answer activity that allows participants to explore concepts or jargon around software development and data science. Then, the reasons behind why taking a computational approach is beneficial are covered. The latter half of the lesson explores regular expressions or pattern matching to find, manage, and transform data and files.
@@ -55,7 +56,8 @@ The lesson begins with a question and answer activity that allows participants t
 * [Jargon Busting](https://librarycarpentry.org/lc-overview/03-jargon-busting/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
 * [A Computational Approach](https://librarycarpentry.org/lc-overview/04-computational-approach/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview)
 * [Introduction to Working with Data (Regular Expressions)](https://librarycarpentry.github.io/lc-data-intro/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-data-intro)
-  
+
+<!---
 The following lesson episodes are optional:
 
 * [Introduction to Library Carpentry](https://librarycarpentry.org/lc-overview/02-intro-to-library-carpentry/index.html) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-overview): For learners looking for an introduction to Library Carpentry and The Carpentries, for instance, as part of a shorter, pilot workshop (in connection with an event), or as a presentation at an event or to a community. 
@@ -122,4 +124,4 @@ In addition, the following lessons are conceptual (pre-alpha) and still in a des
   * [R](https://librarycarpentry.github.io/lc-r/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-open-refine)
   * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-marcedit)
   * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-ocr/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-ocr)
-  
+--> 
