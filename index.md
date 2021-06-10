@@ -124,3 +124,4 @@ In addition, the following lessons are conceptual (pre-alpha) and still in a des
   * [MarcEdit](https://librarycarpentry.github.io/lc-marcedit/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-marcedit)
   * [OCR/Text & Data Mining](https://librarycarpentry.github.io/lc-ocr/) [(GitHub Repository)](https://github.com/LibraryCarpentry/lc-ocr)
 --> 
+{% include links.md %}
