@@ -117,7 +117,6 @@ We want to explore the circulation statistics of our physical collection outside
 
 > ### Each data project is different...
 > While we will discuss suggestions for ways to work through data projects, there is no definitive "right" way to go through a project. What we hope you take away from this workshop is a sense of the tools that are available, where they might be applied, and how to get help if you need it. 
-> 
 {: .callout}
 
 > ## Discussion 
