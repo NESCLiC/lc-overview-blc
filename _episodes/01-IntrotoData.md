@@ -94,7 +94,6 @@ Where your data are stored is something that you might take for granted, but it 
 No matter where you are storing your data you should consider any security concerns, particularly when dealing with any data that might lead to the identification of your community members. If it is essential that you collect and store this information, check in with your local IT group to learn about which systems at your institution are safe for storing sensitive information.
 
 > ### Data about human subjects
-> 
 > Any time we collect and use data about other humans we have to think carefully about why, how, and where we are storing it.
 > Like so many systems that we use every day, our library and learning management systems are collecting increasing amounts of data about the people who use them, and we
 > need to respect their privacy. If you plan to use any data about your communities in presentations or publications it is a good idea to go through the process 
@@ -116,7 +115,7 @@ We want to explore the circulation statistics of our physical collection outside
 5. We import our new table of processed data from the ILS into a SQL database so we can put datasets from different sources together (more in the [SQL Lesson](https://librarycarpentry.org/lc-sql/)).  
 
 > ### Each data project is different...
-> While we will discuss suggestions for ways to work through data projects, there is no definitive "right" way to go through a project. What we hope you take away from this workshop is a sense of the tools that are available, where they might be applied, and how to get help if you need it. 
+> While we will discuss suggestions for ways to work through data projects, there is no definitive "right" way to go > through a project. What we hope you take away from this workshop is a sense of the tools that are available, where > they might be applied, and how to get help if you need it. 
 {: .callout}
 
 > ## Discussion 
