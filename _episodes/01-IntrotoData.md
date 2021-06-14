@@ -57,8 +57,7 @@ These are just a few examples of the kinds of data that you might have in your l
 
 > ### Sources of data
 > What kinds of data do you come across in your library work? Where are those data stored?
->
-{: .challenge}
+>{: .challenge}
 
 ## The why, how, and where of library data
 
