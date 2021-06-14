@@ -74,6 +74,7 @@ Whatever the reason for collecting data, it is important to record **why** we co
 
 Libraries have been collecting data for centuries in the form of catalog records, but we also collect data through other methods. Some of those methods are automatically built into our systems, like circulation data, and others require new datasets and data collection instruments to be created, like a survey of community members. The method you use to collect your data will influence how it can be used and what kinds of conclusions you can draw from it. Keeping track of how you collected the data will help you repeat the process in the future so that you can compare results over time.   
 
+
 > ## Documenting your data
 > Whether you create a text README file, a data dictionary, a codebook, or a project notebook, it is important
 > to document your data. This includes things like:
@@ -87,11 +88,13 @@ Libraries have been collecting data for centuries in the form of catalog records
 > You can learn more about README files, data dictionaries, and codebooks, including examples, at the [University of Iowa Guide to Readme, Data Dictionaries, Codebooks](https://www.lib.uiowa.edu/data/manage/documenting/readme/).
 {: .callout}
 
+
 ### Where?
 
 Where your data are stored is something that you might take for granted, but it is important to think through your storage options based on your sharing, backup, and security needs. While it can be convenient to use the default places your computer wants to save files, this can make it difficult to find them later and, if they are on your laptop or desktop hard drive, can cause hassles if your computer crashes and hasn't been backed up. It also makes it impossible for your colleagues to use the data unless you send it to them, which can mean that there are versions of your files out there that are not the most recent copy. Sharing files on a shared drive or cloud storage platform (like Box, DropBox or Google Drive) can help more people have access and provide a place to back up your files. 
 
 No matter where you are storing your data you should consider any security concerns, particularly when dealing with any data that might lead to the identification of your community members. If it is essential that you collect and store this information, check in with your local IT group to learn about which systems at your institution are safe for storing sensitive information.
+
 
 > ## Data about human subjects
 > Any time we collect and use data about other humans we have to think carefully about why, how, and where we are storing it.
@@ -102,6 +105,7 @@ No matter where you are storing your data you should consider any security conce
 > 
 > If you want to learn more about privacy in libraries from the student perspective, check out the [Data Doubles Project](https://datadoubles.org/).
 {: .callout}
+
 
 ## Using data tools together
 
@@ -114,9 +118,11 @@ We want to explore the circulation statistics of our physical collection outside
 4. We also export the JSON file of each step we used to clean our data in OpenRefine so we know what we did and can do it again (more in the [OpenRefine Lesson](https://librarycarpentry.org/lc-open-refine/)).
 5. We import our new table of processed data from the ILS into a SQL database so we can put datasets from different sources together (more in the [SQL Lesson](https://librarycarpentry.org/lc-sql/)).  
 
+
 > ## Each data project is different...
 > While we will discuss suggestions for ways to work through data projects, there is no definitive "right" way to go > through a project. What we hope you take away from this workshop is a sense of the tools that are available, where > they might be applied, and how to get help if you need it. 
 {: .callout}
+
 
 > ## Discussion 
 > Do you have: 
