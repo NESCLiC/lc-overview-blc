@@ -102,7 +102,6 @@ No matter where you are storing your data you should consider any security conce
 > subjects research. You should also check what legal requirements are relevant in your country (for example, GDPR in the European Union).
 > 
 > If you want to learn more about privacy in libraries from the student perspective, check out the [Data Doubles Project](https://datadoubles.org/).
-> 
 {: .callout}
 
 ## Using data tools together
