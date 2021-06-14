@@ -21,6 +21,10 @@ Save | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>S</kbd>
 Copy | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>C</kbd>
 Cut | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>X</kbd>
 Paste | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>V</kbd>
+Undo | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>Z</kbd>
+Redo | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>Y</kbd>
+Select All | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>A</kbd>
+Find | <kbd>Ctrl</kbd> | <kbd>Command</kbd> | + <kbd>F</kbd>
 Switch Applications | <kbd>Alt</kbd> | <kbd>Command</kbd> | <kbd>Tab</kbd> |
 
 Keyboard shortcuts are the first step towards automation. Sometimes you don’t have to write a programming script or use a program to automate. 
